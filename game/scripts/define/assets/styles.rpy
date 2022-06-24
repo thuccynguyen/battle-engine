@@ -1,7 +1,7 @@
 style pixel:
     font "gui/fonts/alkh.ttf"
-    outlines [(3, "#658791", 1, 1)]
-    color "#b4c5cb"
+    outlines [(3, "#ffffff", 1, 1)]
+    color "#000000"
     size 40
 
 style dmg_text:

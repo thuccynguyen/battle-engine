@@ -12,7 +12,7 @@
 ##
 ## The _() surrounding the string marks it as eligible for translation.
 
-define config.name = _("RPG Battle Engine for Renpy")
+define config.name = _("ALABASTER")
 
 
 ## Determines if the title given above is shown on the main menu screen. Set
@@ -30,7 +30,7 @@ define config.version = "1.2"
 ## triple-quotes, and leave a blank line between paragraphs.
 
 define gui.about = _p("""
-by Gabriel Herrera
+by Thuccy Nguyen
 
 Music by Lucy Villarreal @filmnoirtoday
 
@@ -44,7 +44,7 @@ Sound effects from Pokémon GO, Pokémon Sun / Moon, FATE Undiscovered Realms an
 ## distribution. This must be ASCII-only, and must not contain spaces, colons,
 ## or semicolons.
 
-define build.name = "RPGBattleEngine"
+define build.name = "ALABASTER_DEMO"
 
 
 ## Sounds and music ############################################################
